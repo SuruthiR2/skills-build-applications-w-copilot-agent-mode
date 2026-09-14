@@ -34,3 +34,6 @@ __pycache__/
 
 # Local tool caches
 .impeccable/
+node_modules/
+dist/
+.env
